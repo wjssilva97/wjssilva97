@@ -41,10 +41,10 @@
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=wjssilva97&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjssilva97&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wjssilva97"></img>
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/wjssilva97/wjssilva97/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -58,9 +58,9 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=wjssilva97" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=wjssilva97&show-other-skills=true" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
