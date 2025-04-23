@@ -33,15 +33,15 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!--### 📈 GitHub Activity Graph:-->
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=wjssilva97&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjssilva97&theme=radical&layout=compact) |
+<!--| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=wjssilva97&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjssilva97&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wjssilva97"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wjssilva97"></img> -->
 
 <!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
